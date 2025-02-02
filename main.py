@@ -13,6 +13,7 @@ doc4 = Doctor('Naima Hassan', 'Oncology')
 doc5 = Doctor('Sadam Ahmed', 'Pediatrics')
 
 
+
 hospital.add_doctor(doc1)
 hospital.add_doctor(doc2)
 hospital.add_doctor(doc3)
@@ -26,6 +27,11 @@ pat2 = Patient('Hawa Ali', 35, 'Liver Disease')
 pat3 = Patient('Amina Hassan', 25, 'Brain Tumor')
 pat4 = Patient('Nur Hassan', 40, 'Cancer')
 pat5 = Patient('Sadia Ahmed', 30, 'Asthma')
+pat6 = Patient('Lisa Smith', 45, 'Kidney Disease')
+pat7 = Patient('Lamia Hassan', 20, 'Diabetes')
+pat8 = Patient('Lana Eunis', 35, 'Hypertension')
+pat9 = Patient('Pink ie Eunis', 40, 'Kidney Failure')
+pat10 = Patient('John Lewis', 55, 'Eye Disease')
 
 hospital.add_patient(pat1)
 hospital.add_patient(pat2)
